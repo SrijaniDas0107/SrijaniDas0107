@@ -5,8 +5,8 @@
 🎓 **B.Tech Computer Science** @ VIT Chennai  
 💻 C, C++, Python | Exploring open source and project-based learning
 
-## 🛠️ Languages and Tools  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode" height="45"/>
+## Languages and Tools  
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,git,github,vscode" height="45"/>
 
 ## 🔗 Coding Profiles  
 <a href="https://leetcode.com/u/Srijani_Das07/">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28"/>
 </a>
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=radical&background=0d1117&border=667eea" height="165"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
