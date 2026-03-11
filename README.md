@@ -20,6 +20,9 @@
 </a>
 
 ## GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=6a85f1&count_private=true" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=github-dark-blue&background=0d1117&border=6a85f1" height="165"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a85f1,100:8e5fd2ea&height=100&section=footer)
