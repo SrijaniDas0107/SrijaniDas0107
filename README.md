@@ -6,8 +6,8 @@
 💻 C | C++ | Python • Open Source • Project-Based Learning
 
 ## Languages and Tools  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,git,github,vscode" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,vscode" height="45"/>
+<!---
 ## 🔗 Coding Profiles  
 <a href="https://leetcode.com/u/Srijani_Das07/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28"/>
@@ -18,7 +18,7 @@
 <a href="https://www.codechef.com/users/srijani_das01">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28"/>
 </a>
-
+--->
 ## GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=6a85f1&count_private=true" height="165"/>
