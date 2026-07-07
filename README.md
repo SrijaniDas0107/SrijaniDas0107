@@ -1,31 +1,71 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a85f1,100:8e5fd2&height=200&section=header&text=Srijani%20Das&fontSize=50&fontColor=fff&animation=fadeIn)
 
-🎓 **B.Tech Computer Science** @ VIT Chennai  
-💻 C | C++ | Python • Open Source • Project-Based Learning
 
-## Languages and Tools  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,vscode" height="45"/>
-<!---
-## 🔗 Coding Profiles  
-<a href="https://leetcode.com/u/Srijani_Das07/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28"/>
-</a>
-<a href="https://www.hackerrank.com/profile/srijani0107">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
-</a>
-<a href="https://www.codechef.com/users/srijani_das01">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28"/>
-</a>
---->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d2d2d&height=200&section=header&text=Srijani%20Das&fontSize=50&fontColor=e8e6e1&animation=fadeIn&fontAlignY=40)
 
-## GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=6a85f1&count_private=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=github-dark-blue&background=0d1117&border=6a85f1" height="165"/>
+**CS STUDENT · ML RESEARCH · SOFTWARE DEVELOPMENT**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a85f1,100:8e5fd2ea&height=100&section=footer)
+🎓 B.Tech CSE @ VIT Chennai (2028)
+📄 Published: *LeafFusionNet* — Frontiers in AI, 2026
+💻 Python | C++ | JavaScript · ML · Full-Stack
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](YOUR_LINKEDIN_URL)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+](YOUR_PORTFOLIO_URL)
+
+## Languages and Tools
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode&theme=dark" height="45"/>
+
+
+## Featured Projects
+
+### 🔭 CosmicID — Astronomical Object Classifier
+ML classifier for stars, galaxies, and quasars using SDSS photometric data. Custom three-stage hybrid model (PRISM) combining a color graph encoder, mutual information attention, and calibrated LightGBM, with an interactive dashboard comparing predictions across Random Forest, XGBoost, and PRISM.
+`Python` `LightGBM` `XGBoost` `Scikit-learn` `Flask`
+
+### 💼 Recruitment Consulting Portal
+Full-stack recruitment platform for a startup, with an admin panel for job and candidate management, RESTful API backend, and secure authentication.
+`Node.js` `SQLite` `REST APIs` `JavaScript`
+
+### 🎙️ Voice Notes Summarizer
+Local, privacy-focused Python app that transcribes audio and generates AI summaries at multiple detail levels — all processing done on-device using Whisper and BART.
+`Python` `Streamlit` `Whisper` `HuggingFace BART` `PyTorch`
+
+### 🍃 Plant Disease Detection using Deep Learning
+CNN, Vision Transformer, and hybrid ViT+CNN architectures for plant disease classification, achieving ~99% accuracy on PlantVillage. Used Grad-CAM for interpretability. Research extended into a published paper.
+`Python` `TensorFlow` `Keras` `Grad-CAM`
+
+### 🍃 LeafFusionNet (Publication)
+Hybrid deep learning approach for robust plant disease detection.
+📄 [Frontiers in AI, 2026](https://doi.org/10.3389/frai.2026.1773329)
+
+### 🌐 Personal Portfolio
+Interactive portfolio site.
+`JavaScript`
+[🔗 Live Site](YOUR_PORTFOLIO_URL)
+
+
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=github_dark&bg_color=1a1a1a&title_color=8a9a7e&icon_color=8a9a7e&text_color=e8e6e1&border_color=3d3d3d&count_private=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=github-dark-blue&background=1a1a1a&ring=8a9a7e&fire=8a9a7e&currStreakLabel=8a9a7e&border=3d3d3d" height="165"/>
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:1a1a1a&height=100&section=footer)
+
+
 
 </div>
