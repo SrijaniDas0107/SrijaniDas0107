@@ -1,51 +1,42 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="55%" valign="middle">
 
+<br>
 
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d2d2d&height=180&section=header&text=Srijani%20Das&fontSize=45&fontColor=e8e6e1&animation=fadeIn&fontAlignY=40)
-
-
+# Srijani Das
 
 CS Student · ML Research · Software Development
-B.Tech CSE @ VIT Chennai (2028)
+<sub>B.Tech CSE @ VIT Chennai (2028)</sub>
+
+<br>
+
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=8A9A7E&center=false&vCenter=true&width=400&height=30&lines=building+ML+systems;doing+research;shipping+software)
+
+<br>
 
 [LinkedIn](https://www.linkedin.com/in/srijani-das07) · [Portfolio](https://srijani-das-portfolio.netlify.app/)
+
+<br><br>
+
+</td>
+<td width="45%" align="center">
+
+<img src="./assets/orbit.svg" width="380"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode&theme=dark" height="40"/>
 
 </div>
 
 <br>
-
-## Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode&theme=dark" height="40"/>
-
-<br>
-
-## Featured Projects
-
-**CosmicID — Astronomical Object Classifier**
-ML classifier for stars, galaxies, and quasars using SDSS photometric data. Custom three-stage hybrid model (PRISM) combining a color graph encoder, mutual information attention, and calibrated LightGBM.
-`Python` `LightGBM` `XGBoost` `Scikit-learn` `Flask`
-
-**Recruitment Consulting Portal**
-Full-stack recruitment platform with an admin panel for job and candidate management, RESTful API backend, and secure authentication.
-`Node.js` `SQLite` `REST APIs` `JavaScript`
-
-**Voice Notes Summarizer**
-Local, privacy-focused Python app that transcribes audio and generates AI summaries at multiple detail levels, all processed on-device.
-`Python` `Streamlit` `Whisper` `HuggingFace BART` `PyTorch`
-
-**Plant Disease Detection using Deep Learning**
-CNN, Vision Transformer, and hybrid ViT+CNN architectures for plant disease classification, achieving ~99% accuracy on PlantVillage. Extended into a [published paper](https://doi.org/10.3389/frai.2026.1773329).
-`Python` `TensorFlow` `Keras` `Grad-CAM`
-
-**Personal Portfolio**
-Interactive site featuring a scroll-based Three.js WebGL animation.
-[Live Site](https://srijani-das-portfolio.netlify.app/)
-
-<br>
-
-## GitHub Stats
 
 <div align="center">
 
@@ -54,6 +45,6 @@ Interactive site featuring a scroll-based Three.js WebGL animation.
 
 </div>
 
+<br>
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:1a1a1a&height=90&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:1a1a1a&height=90&section=footer"/>
